@@ -1,8 +1,8 @@
 
 ## Starting the app
 1. Clone the respository in your local machine.
-2. Run the commad cd crypto-tracker
-3. Run the command npm install --legacy-peer-deps, to avoid any problem that might arise from possible version mismatch of the npm packages used in the app.
+2. Run the commad `cd crypto-tracker`
+3. Run the command `npm install --legacy-peer-deps`, to avoid any problem that might arise from possible version mismatch of the npm packages used in the app.
 4. Run the command npm run start.
 5. The app will be up and running in your local machine.
 
