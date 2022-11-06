@@ -1,0 +1,1 @@
+export { coinApi as default} from './api';
